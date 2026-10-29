@@ -11,11 +11,10 @@ Room link: [https://tryhackme.com/room/nmap](https://tryhackme.com/room/nmap)
 
 
 # Table of Contents
-
-- [[#Host Discovery: Who is online]]
-- [[#Port Scanning: Who is listening]]
-- [[#Version Detection: Extract More Information]]
-- [[#Timing: How Fast is Fast]]
+- [Host Discovery: Who is online](#host-discovery-who-is-online)
+- [Port Scanning: Who is listening](#port-scanning-who-is-listening)
+- [Version Detection: Extract More Information](#version-detection-extract-more-information)
+- [Timing: How Fast is Fast](#timing-how-fast-is-fast)
 
 
 ## Host Discovery: Who is online
