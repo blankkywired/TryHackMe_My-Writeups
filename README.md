@@ -10,7 +10,11 @@ Atualmente o repositório abrange somente ao path de Cybersecurity 101, e está 
 ## Cybersecurity 101 Path
 ### Modules
 
+
 #### Windows and AD Fundamentals
-- [WIndows Fundamentals 1](<./Cybersec 101 - Path/Windows and AD Fundamentals/WIndows-Fundamentals01.md>)
+- [WIndows Fundamentals 1](<./Cybersec 101 - Path/Windows and AD Fundamentals/WIndows-Fundamentals-01.md>)
+- [WIndows Fundamentals 2](<./Cybersec 101 - Path/Windows and AD Fundamentals/WIndows-Fundamentals-02.md>)
+- [WIndows Fundamentals 3](<./Cybersec 101 - Path/Windows and AD Fundamentals/WIndows-Fundamentals-03.md>)
+
 #### Networking
 - [Nmap - The Basics](<./Cybersec 101 - Path/Networking/Nmap - The Basics.md>)
